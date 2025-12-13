@@ -51,7 +51,4 @@ variable "protocol" {
     default = "-1"
 }
 
-variable "dinesh" {
-    default = 20 
-}
 
