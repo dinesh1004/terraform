@@ -50,3 +50,8 @@ variable "protocol" {
     type = string
     default = "-1"
 }
+
+variable "dinesh" {
+    default = 20 
+}
+
