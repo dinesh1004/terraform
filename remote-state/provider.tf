@@ -7,7 +7,7 @@ terraform {
   }
    backend "s3" {
     bucket         = "velpuladinesh-devops-bucket"
-    key            = "Dinesh_test"
+    key            = "Dinesh_test1"
     region         = "us-east-1"
     encrypt        = true
     use_lockfile = true
